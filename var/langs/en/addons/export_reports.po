@@ -1,0 +1,99 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::export_reports"
+msgid "Export Reports"
+msgstr "Export Reports"
+
+msgctxt "Addons::description::export_reports"
+msgid "Export report"
+msgstr "Export report"
+
+msgctxt "Languages::export_reports"
+msgid "Export Reports"
+msgstr "Export Reports"
+
+msgctxt "Languages::reports"
+msgid "Reports"
+msgstr "Reports"
+
+msgctxt "Languages::report_order_master"
+msgid "Report: Order Master"
+msgstr "Report: Order Master"
+
+msgctxt "Languages::report_orders"
+msgid "Report: Orders"
+msgstr "Report: Orders"
+
+msgctxt "Languages::report_returns"
+msgid "Report: Returns"
+msgstr "Report: Returns"
+
+msgctxt "Languages::report_shipments"
+msgid "Report: Shipments"
+msgstr "Report: Shipments"
+
+msgctxt "Languages::report_order_details"
+msgid "Report: Order Details"
+msgstr "Report: Order Details"
+
+
+msgctxt "Languages::start_date"
+msgid "Start Date"
+msgstr "Start Date"
+
+msgctxt "Languages::end_date"
+msgid "End Date"
+msgstr "End Date"
+
+msgctxt "Languages::company_id"
+msgid "Vendor"
+msgstr "Vendor"
+
+msgctxt "Languages::brands"
+msgid "Brands"
+msgstr "Brands"
+
+msgctxt "Languages::statuses"
+msgid "Statuses"
+msgstr "Statuses"
+
+msgctxt "Languages::order_statuses"
+msgid "Order Statuses"
+msgstr "Order Statuses"
+
+msgctxt "Languages::return_statuses"
+msgid "Return Statuses"
+msgstr "Return Statuses"
+
+msgctxt "Languages::order_ids"
+msgid "Order IDs"
+msgstr "Order IDs"
+
+msgctxt "Languages::export_report_order_details_options_start_date_tooltip"
+msgid "Date format is dd-mm-yyyy. Ex. 01-03-2016. This date is inclusive within the period."
+msgstr "Date format is dd-mm-yyyy. Ex. 01-03-2016. This date is inclusive within the period."
+
+msgctxt "Languages::export_report_order_details_options_end_date_tooltip"
+msgid "Date format is dd-mm-yyyy. Ex. 01-03-2016. This date is inclusive within the period."
+msgstr "Date format is dd-mm-yyyy. Ex. 01-03-2016. This date is inclusive within the period."
+
+msgctxt "Languages::export_report_order_details_options_brands_tooltip"
+msgid "Seperate brands with comma. Ex bata, bonia. The name is case incensitive."
+msgstr "Seperate brands with comma. Ex bata, bonia. The name is case incensitive."
+
+msgctxt "Languages::export_report_order_details_options_order_statuses_tooltip"
+msgid "Seperate statuses with comma. Ex Processed, Completed. The name is case incensitive."
+msgstr "Seperate statuses with comma. Ex Processed, Completed. The name is case incensitive."
+
+msgctxt "Languages::export_report_order_details_options_return_statuses_tooltip"
+msgid "Seperate statuses with comma. Ex Processed, Completed. The name is case incensitive."
+msgstr "Seperate statuses with comma. Ex Processed, Completed. The name is case incensitive."
+
+msgctxt "Languages::export_report_order_details_options_order_ids_tooltip"
+msgid "Seperate order IDs with comma. Ex 1, 2, 3."
+msgstr "Seperate order IDs with comma. Ex 1, 2, 3."
+

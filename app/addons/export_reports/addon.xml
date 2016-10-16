@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <addon scheme="3.0">
-	<id>export_report</id>
+	<id>export_reports</id>
 	<version>1.0</version>
 	<description>Export report</description>
 	<priority>100</priority>
@@ -11,4 +11,5 @@
 	<compatibility>
 		<core_edition>MULTIVENDOR</core_edition>
 	</compatibility>
+	<dependencies>rma</dependencies>
 </addon>

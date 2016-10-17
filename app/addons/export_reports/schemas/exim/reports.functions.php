@@ -170,8 +170,10 @@ function fn_exim_report_conditions(&$conditions, &$options){
 	// End Date
 	if(!empty($end_date))
 		$end_date = strtotime($end_date);
-	if(!empty($end_date))
+	if(!empty($end_date)){
+		$end_date = strtotime('+1 day -1 second', $end_date);
 		$conditions[] = db_quote("orders.timestamp <= ?i", $end_date);
+	}
 
 	// Company
 	if(!empty($company_id))
